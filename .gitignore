@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large / generated files
+results/
+videos/
+
+# Model weights (optional – see note below)
+weights/
+*.pt
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
